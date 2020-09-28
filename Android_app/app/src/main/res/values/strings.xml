@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Covid.alarm</string>
+    
+    <string name="thank_you">Thank you for keeping social distance</string>
+    <string name="high_risk">Please avoid close distance to other people</string>
+    <string name="error">There is an error occurred, please restart an app</string>
+</resources>
